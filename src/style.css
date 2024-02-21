@@ -56,3 +56,22 @@
     text-align: left;
     margin-top: 10px;
   }
+  .status{
+    margin: 10px;
+  }
+  .blue{
+    color: blue;
+    font-weight: 500;
+  }
+  .green{
+    color: green;
+    font-weight: 500;
+  }
+  .yellow{
+    color: rgb(209, 209, 74);
+    font-weight: 500;
+  }
+  .red{
+    color: red;
+    font-weight: 500;
+  }
